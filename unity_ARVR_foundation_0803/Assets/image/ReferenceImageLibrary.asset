@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5520897873222943802
+  m_GuidHigh: 13815960432994396566
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5676091103334515716
+      m_GuidHigh: 10441111965696020908
+    m_SerializedTextureGuid:
+      m_GuidLow: 6603469690464899776
+      m_GuidHigh: 1155570409901892104
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: fox
+    m_Texture: {fileID: 0}
