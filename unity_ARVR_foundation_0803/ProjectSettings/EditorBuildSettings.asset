@@ -9,5 +9,7 @@ EditorBuildSettings:
     path: "Assets/\u5834\u666F/\u5834\u666F.unity"
     guid: 26bd5b731db2d1e409e18ab5d50a1ccc
   m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 3f2de0d062c482c4d961dfae5b613f2c, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b64594175e7d2154ea54abf624e8b817, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bfb62ca858857ea49a61e3badaead71e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a703685298857984cbb593c0a0862406, type: 2}
